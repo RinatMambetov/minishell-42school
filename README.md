@@ -1,4 +1,4 @@
-# minishell-42school
+# minishell-42school (my grade is 125/100)
 This project is about creating a simple shell.<br><br>
 Yes, your own little bash.<br><br>
 You will learn a lot about processes and file descriptors.<br><br>
